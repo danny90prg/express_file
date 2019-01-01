@@ -65,3 +65,6 @@ typings/
 
 # static files directories
 files/
+
+# confing file
+*.conf
